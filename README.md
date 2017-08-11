@@ -1,5 +1,6 @@
-- [Linear regression with one variable - 简书](http://www.jianshu.com/p/31f9f6aa4b16)
-- [Linear regression with multiple variables - 简书](http://www.jianshu.com/p/d6b0d0f044e7)
+[Linear regression with one variable - 简书](http://www.jianshu.com/p/31f9f6aa4b16)
+
+[Linear regression with multiple variables - 简书](http://www.jianshu.com/p/d6b0d0f044e7)
 
 多变量线性回归 预测房价
 
